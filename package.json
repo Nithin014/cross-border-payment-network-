@@ -1,0 +1,5 @@
+{
+  "name": "cross-border-payments",
+  "private": true,
+  "workspaces": ["frontend", "backend", "contracts"]
+}
